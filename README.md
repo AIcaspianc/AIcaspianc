@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Khaledi</h1>
-<h3 align="center">An AI-ML Engineer & Data Scientist with two Masters from London & Texas & more than 30 years of experience </h3>
+<h3 align="center">An AI-ML Data Scientist with two Masters from London & Texas & more than 30 years of experience </h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
