@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **NLP Natural Language Processing and Computer Vision**
 
-- 🌱 I’m also learning **AWS , Azure & SQL**
+- 🌱 I’m also learning **AWS , Azure , SQL & Transformers**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
