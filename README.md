@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on **NLP Natural Language Processing and Computer Vision**
 
-- 🌱 I’m currently learning **AWS , Azure & SQL**
+- 🌱 I'm also learning **AWS , Azure & SQL and I hardly sleep 😊😊😊**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
+- 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
 - 📝 I sometimes write articles on [https://aicaspian.com/](https://aicaspian.com/)
 
 - 📫 I am contactable at **aicaspianc@gmail.com**
 
-- ⚡I strongly believe **Together we are Stronger**
+- ⚡ **Together we are Stronger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
