@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mehdi Khaledi</h1>
 <h3 align="center">An AI-ML Engineer & Data Scientist with two Masters in IT from London & Texas and more than 30 years of experience in IT in different countries</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+</head>
+<body>
+    <img src="https://aicaspian.com/wp-content/uploads/2024/01/AICaspian.jpg" alt="AI Caspian Logo">
+</body>
+</html>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicaspianc&label=Profile%20views&color=0e75b6&style=flat" alt="aicaspianc" /> </p>
 
