@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently working on **NLP Natural Language Processing and Computer Vision**
 
-- 🌱 I’m currently learning **AWS , Azure & SQL**
+- 🌱 I’m also learning **AWS , Azure & SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
+- 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
 - 📫 I am contactable at **aicaspianc@gmail.com**
 
-- ⚡My favoriate quote **Together we are Stronger**
+- ⚡ **Together we are Stronger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
