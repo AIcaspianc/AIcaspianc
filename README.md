@@ -19,6 +19,8 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
+-  My microsoft certificates at [https://learn.microsoft.com/en-us/users/mehdi-khaledi/transcript/dqwp3tjgy5e39qp](https://learn.microsoft.com/en-us/users/mehdi-khaledi/transcript/dqwp3tjgy5e39qp)
+
 - 📝 I sometimes write articles on [https://aicaspian.com/](https://aicaspian.com/)
 
 - 📫 I am contactable at **aicaspianc@gmail.com**
