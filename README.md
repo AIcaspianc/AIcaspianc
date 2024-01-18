@@ -19,11 +19,10 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
--  My microsoft certificates at [https://bit.ly/48WnQUq](https://bit.ly/48WnQUq)
+-   My microsoft certificates at [https://bit.ly/48WnQUq](https://bit.ly/48WnQUq)
 
 - 📝 I sometimes write articles on [https://aicaspian.com/](https://aicaspian.com/)
 
-- 📫 I am contactable at **aicaspianc@gmail.com**
 
 - ⚡ **Together we are Stronger**
 
