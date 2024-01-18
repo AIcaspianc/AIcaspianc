@@ -19,7 +19,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
--   My microsoft certificates at [https://t.ly/jw35r](https://t.ly/jw35r)
+- 👦  My microsoft certificates at [https://t.ly/jw35r](https://t.ly/jw35r)
 
 - 📝 I sometimes write articles on [https://aicaspian.com/](https://aicaspian.com/)
 
