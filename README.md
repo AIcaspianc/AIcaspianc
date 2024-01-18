@@ -24,7 +24,7 @@
 - 📝 I sometimes write articles on [https://aicaspian.com/](https://aicaspian.com/)
 
 
-- ⚡ **Together we are Stronger**
+- 💪💪💪 **Together we are Stronger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
