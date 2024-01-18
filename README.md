@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aicaspianc&label=Profile%20views&color=0e75b6&style=flat" alt="aicaspianc" /> </p>
 
-- 🔭 I’m currently working on **NLP Natural Language Processing and Computer Vision**
+- 🔭 I’m currently working on **NLP Natural Language Processing and Generative AI**
 
-- 🌱 I'm also learning **AWS , Generative AI & Transformers and I hardly sleep 😊😊😊**
+- 🌱 I'm also learning **AWS & Transformers and I hardly sleep 😊😊😊**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
