@@ -22,8 +22,6 @@
 
 - 📫 I am contactable at LinkedIn **https://www.linkedin.com/in/mehdi-khaledi/**
 
-- 📄 Know about my experiences [https://aicaspian.com/](https://aicaspian.com/)
-
 - ⚡💪💪💪 **Together we are Stronger**
 
 <h3 align="left">Connect with me:</h3>
