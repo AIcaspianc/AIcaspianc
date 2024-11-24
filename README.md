@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **NLP Natural Language Processing and Generative AI**
+- 🔭 **I'm working on Multi-Modal AI right now, combining Text, Images, and Audio to bring them together for a more robust understanding and smarter answers.**
 
-- 👯 I'm also learning **AWS & Transformers and I hardly sleep 😊😊😊**
+- 👯 I'm also learning **Multi Modals (  and I hardly sleep 😊😊😊**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/AIcaspianc](https://github.com/AIcaspianc)
 
